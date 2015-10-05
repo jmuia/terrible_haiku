@@ -1,0 +1,7 @@
+import os
+
+CONSUMER_TOKEN = os.environ['CONSUMER_TOKEN']
+CONSUMER_SECRET = os.environ['CONSUMER_SECRET']
+ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
+ACCESS_SECRET = os.environ['ACCESS_SECRET']
+USERNAME = 'TerribleHaiku_'
